@@ -3,6 +3,7 @@
 using namespace std;
 
 salut ceci est un test
+Voici un nouveau test
 
 class Vecteur3D{
 	private:
